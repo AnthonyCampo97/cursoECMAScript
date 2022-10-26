@@ -1,0 +1,23 @@
+{
+  "name": "cursoecmascript",
+  "version": "1.0.0",
+  "description": "CursoECMAScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyCampo97/cursoECMAScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ECMAScript"
+  ],
+  "author": "Anthony Campo C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyCampo97/cursoECMAScript/issues"
+  },
+  "homepage": "https://github.com/AnthonyCampo97/cursoECMAScript#readme"
+}
