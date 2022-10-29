@@ -16,8 +16,9 @@
   ],
   "author": "Anthony Campo C",
   "license": "MIT",
+  "type": "module",
   "bugs": {
-    "url": "https://github.com/AnthonyCampo97/cursoECMAScript/issues"
+   "url": "https://github.com/AnthonyCampo97/cursoECMAScript/issues"
   },
   "homepage": "https://github.com/AnthonyCampo97/cursoECMAScript#readme"
 }
