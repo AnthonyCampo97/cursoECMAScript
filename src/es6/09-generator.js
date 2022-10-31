@@ -13,7 +13,7 @@ console.log(it.next().value);
 //Al continuar consultado salen valores indefinidos ya que no existen esa... 
 //...Posiciones en el Array
 
-
+//Ejercicios
 function* getId(){
     let lastId = 1;
   while (true) {
