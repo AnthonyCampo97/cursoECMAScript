@@ -18,7 +18,10 @@
   "license": "MIT",
   "type": "module",
   "bugs": {
-   "url": "https://github.com/AnthonyCampo97/cursoECMAScript/issues"
+    "url": "https://github.com/AnthonyCampo97/cursoECMAScript/issues"
   },
-  "homepage": "https://github.com/AnthonyCampo97/cursoECMAScript#readme"
+  "homepage": "https://github.com/AnthonyCampo97/cursoECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
